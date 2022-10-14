@@ -1,6 +1,6 @@
 # GDS README template
 
-This is a template to follow when you write a README for your GDS GitHub repository. Refer to the [GDS Way guidance on writing READMEs](#link) for more information.
+This is a template to follow when you write a README for your GDS GitHub repository. Refer to the [GDS Way guidance on writing READMEs](https://gds-way.cloudapps.digital/manuals/readme-guidance.html) for more information.
 
 ## Title your README clearly
 Give the user a clear sign they’re looking at the right thing. For example, `GOV.UK webchat prototype` not `chatbot-v1`.
